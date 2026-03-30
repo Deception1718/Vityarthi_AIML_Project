@@ -1,0 +1,10 @@
+warehouse, 50, 50
+stop_1, 10, 10
+stop_2, 80, 85
+stop_3, 15, 75
+stop_4, 90, 10
+stop_5, 30, 45
+stop_6, 60, 90
+stop_7, 5, 5
+stop_8, 95, 95
+stop_9, 45, 15
